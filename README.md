@@ -24,7 +24,7 @@ Each subfolder contains seven Jupyter Notebooks, organized as follows:
 - 3- Load the .ipynb notebook on Google Colaboratory, and you will be able to run the cells.
 - 4- Adapt all the paths contained in the code with your own.
 # License
-All the code is under the CC BY-NC-SA 4.0 DEED License.
+All the code is under the CC BY-NC-SA 2.0 Generic License.
 Please cite our work for any use of the dataset or code in this repository.
 # Contacts
 Alessio B. Chisari - alessio.chisari@phd.unict.com
