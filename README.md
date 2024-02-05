@@ -1,5 +1,5 @@
 # CeilometerDatasetBenchmark
-This repository contains the code to generate the benchmark needed to evaluate five state-of-the-art models on the binary classification task regarding cloud detection using a new dataset: the Ceilometer measurements dataset, released together with the bechmark data. 
+This repository contains the code to generate the benchmark needed to evaluate five state-of-the-art models (EfficientNet, Inception v3, VGG16, ResNet50 and ViT) on the binary classification task regarding cloud detection using a new dataset: the Ceilometer measurements dataset, released together with the bechmark data. 
 The structure of the repository is as follows: each model has a folder containing two subfolders: SGD and Adam (one for each optimizer proposed in the experiments).
 Each subfolder contains seven Jupyter Notebooks, organized as follows:
   - For SGD:
