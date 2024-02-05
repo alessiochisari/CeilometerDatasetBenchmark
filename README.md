@@ -18,10 +18,11 @@ Each subfolder contains seven Jupyter Notebooks, organized as follows:
       - 5- lr=1e-2, weight_decay=1e-3
       - 6- lr=1e-2, weight_decay=1e-2
       - 7- lr=1e-2, weight_decay=1e-4
-# Instructions for use
-- 1- download the dataset from the following link: https://zenodo.org/records/10616434;
-- 2- copy the Jupyter Notebook to your own Google Colab space (or other capable of running Jupyter Notebook);
-- 3- adapt all the paths contained in the code with your own.
+# Usage
+- 1- Download the dataset from the following link: https://zenodo.org/records/10616434.
+- 2- Upload the dataset on your Google Drive.
+- 3- Load the .ipynb notebook on Google Colaboratory, and you will be able to run the cells.
+- 4- Adapt all the paths contained in the code with your own.
 # License
 All the code is under the CC BY-NC-SA 4.0 DEED License.
 # Contacts
