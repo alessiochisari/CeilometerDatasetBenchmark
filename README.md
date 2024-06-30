@@ -25,6 +25,14 @@ Each subfolder contains seven Jupyter Notebooks, organized as follows:
 - 4- Adapt all the paths contained in the code with your own.
 # License
 All the code is under the CC BY-NC-SA 2.0 Generic License.
-Please cite our work for any use of the dataset or code in this repository.
+Please cite our work for any use of the dataset or code in this repository using this citation: 
+@inproceedings{chisari2024,
+  author       = {Alessio Barbaro Chisari and others},
+  title        = {On the Cloud Detection from Backscattered Images Generated From a Lidar-Based Ceilometer: Current State and Opportunities},
+  booktitle    = {{IEEE} {ICIP} 2024,
+                  Abu Dhabi, UAE, October 27-30, 2024},
+  year         = {2024},
+}
+
 # Contacts
 Alessio B. Chisari - alessio.chisari@phd.unict.com
