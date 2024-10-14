@@ -1,3 +1,13 @@
+<div align="center">
+
+# ON THE CLOUD DETECTION FROM BACKSCATTERED IMAGES GENERATED FROM A LIDAR-BASED CEILOMETER: CURRENT STATE AND OPPORTUNITIES
+Alessio Barbaro Chisari, Alessandro Ortis, Luca Guarnera, Wladimiro Carlo Patatu, Rosaria Ausilia Giandolfo, Emanuele Spampinato, Sebastiano Battiato, Mario Valerio Giuffrida
+
+[![Conference](https://img.shields.io/badge/ICIP-2024)]
+
+</div>
+
+
 # CeilometerDatasetBenchmark
 This repository contains the code to generate the benchmark needed to evaluate five state-of-the-art models (**EfficientNet**, **Inception v3**, **ResNet50**, **VGG16** and **ViT**) on the binary classification task regarding cloud detection using a new dataset: the Ceilometer measurements dataset, released together with the bechmark data. 
 The structure of the repository is as follows: each model has a folder containing two subfolders: SGD and Adam (one for each optimizer proposed in the experiments).
