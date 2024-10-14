@@ -7,6 +7,8 @@ Alessio Barbaro Chisari, Alessandro Ortis, Luca Guarnera, Wladimiro Carlo Patatu
 
 </div>
 
+For more information about full paper, please visit the following [website](https://ieeexplore.ieee.org/abstract/document/10647352).
+
 
 # CeilometerDatasetBenchmark
 This repository contains the code to generate the benchmark needed to evaluate five state-of-the-art models (**EfficientNet**, **Inception v3**, **ResNet50**, **VGG16** and **ViT**) on the binary classification task regarding cloud detection using a new dataset: the Ceilometer measurements dataset, released together with the bechmark data. 
@@ -36,14 +38,16 @@ Each subfolder contains seven Jupyter Notebooks, organized as follows:
 # License
 All the code is under the CC BY-NC-SA 2.0 Generic License.
 Please cite our work for any use of the dataset or code in this repository using this citation: 
-
-@inproceedings{chisari2024,
-  author       = {Alessio Barbaro Chisari and others},
-  title        = {On the Cloud Detection from Backscattered Images Generated From a Lidar-Based Ceilometer: Current State and Opportunities},
-  booktitle    = {{IEEE} {ICIP} 2024,
-                  Abu Dhabi, UAE, October 27-30, 2024},
-  year         = {2024}
+```bibtex
+@inproceedings{chisari2024cloud,
+  title={On the cloud detection from backscattered images generated from a lidar-based ceilometer: Current state and opportunities},
+  author={Chisari, Alessio Barbaro and Ortis, Alessandro and Guarnera, Luca and Patatu, Wladimiro Carlo and Giandolfo, Rosaria Ausilia and Spampinato, Emanuele and Battiato, Sebastiano and Giuffrida, Mario Valerio},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)},
+  pages={144--150},
+  year={2024},
+  organization={IEEE}
 }
+```
 
 # Contacts
 Alessio B. Chisari - alessio.chisari@phd.unict.com
